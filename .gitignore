@@ -1,0 +1,9 @@
+# generated data and trained models (recreated by running the notebook)
+icbhi_project/
+
+# virtual environment
+RespDisease/
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
